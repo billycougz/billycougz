@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- [Project Flow](https://github.com/users/billycougz/projects/3/views/1) 💡📈 
-- See pinned projects (most have a web link in the description) 🌐👇
+- See pinned projects, most have a web link in the description 🌐👇
+- <a href='https://github.com/users/billycougz/projects/3/views/1' target='_blank'>Project Flow</a>💡📈 
 
 <!--
 **billycougz/billycougz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
