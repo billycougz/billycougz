@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- See pinned projects, most have a web link in the description 🌐👇
+- See pinned projects, most have a live web link in the description 🌐👇
 - [Project Flow](https://github.com/users/billycougz/projects/3/views/1) 💡🚀
 
 <!--
