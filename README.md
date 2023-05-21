@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- See pinned projects, most have a live web link in the description 🌐👇
+- See pinned projects, each project's description contains a live link 🌐👇
 - [Project Flow](https://github.com/users/billycougz/projects/3/views/1) 💡🚀
 
 <!--
