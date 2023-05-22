@@ -1,4 +1,4 @@
-![Website Screenshot](https://raw.githubusercontent.com/billycougz/billycougz/main/Screenshot%202023-05-06%20at%2011.07.11%20AM.png)
+[![Website Screenshot](https://raw.githubusercontent.com/billycougz/billycougz/main/Screenshot%202023-05-06%20at%2011.07.11%20AM.png)](https://williamcougan.com)
 
 ### Hi there 👋
 
