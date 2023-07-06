@@ -1,9 +1,9 @@
 [![Website Screenshot](https://raw.githubusercontent.com/billycougz/billycougz/main/Screenshot%202023-05-06%20at%2011.07.11%20AM.png)](https://williamcougan.com)
 
 ### Hi there 👋
-- Check out my personal website hosted @ [williamcougan.com](https://williamcougan.com)
-- See my pinned GitHub repos, each repo provides a live link 🌐👇
-- Take a look at where I am in my [Project Flow](https://github.com/users/billycougz/projects/3/views/1) 💡🚀
+- Check out my [personal site](https://williamcougan.com) 🌐 🖥️
+- See my pins, each contains a live link 👇 🔗
+- Take a look at where I am in my [Project Flow](https://github.com/users/billycougz/projects/3/views/1) 💡 🚀
 
 <!--
 **billycougz/billycougz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
